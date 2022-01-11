@@ -1,7 +1,3 @@
-# Proyecto - Ciencia de Datos en Python
+# Ciencia de Datos Professional Certificate Program
 
-**Nombre: José Alejandro López Quel**
-
-**Carné: 21001127**
-
-**TecdeMonterreyX - CDICD.1X**
+**TecdeMonterreyX**
